@@ -14,10 +14,10 @@ I build secure and sustainable infrastructure that people can **trust**.
   <img src="assets/airflow.png" alt="SSIS" width="100" height="50" />
   <img src="assets/odi.jpg" alt="ODI" width="100" height="50" />
   <img src="assets/ssis.png" alt="SSIS" width="100" height="50" />
-  <img src="assets/powerbi.png" alt="SSIS" width="100" height="50" />
-  <img src="assets/tableau.png" alt="ODI" width="100" height="50" />
-  <img src="assets/sql.png" alt="SSIS" width="100" height="50" />
-  <img src="assets/python.png" alt="SSIS" width="100" height="50" />
+  <img src="assets/powerbi.png" alt="Power BI" width="100" height="50" />
+  <img src="assets/tableau.png" alt="Tableau" width="100" height="50" />
+  <img src="assets/sql.png" alt="SQL" width="80" height="40" />
+  <img src="assets/python.png" alt="Python" width="100" height="50" />
 </div>
 
 
