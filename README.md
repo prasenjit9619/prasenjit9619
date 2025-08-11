@@ -1,51 +1,42 @@
-<!-- Visitor counter (top-right) -->
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</div>
+![Profile views](https://komarev.com/ghpvc/?username=prasenjit9619&label=Profile%20Views&color=0e75b6&style=flat)
 
 # Hey, I'm Prasenjit 👋
 
-Data → decisions. Ethical AI/BI. Clean UX.  
-Dhaka-based BI & Data Engineering — I build things that people can trust.
+Data → Decisions | Ethical AI/BI Founder | Clean UX Advocate  
+Dhaka‑based Senior BI Analyst & Data Engineer — I build intelligence people can **trust**.
 
 ---
 
-### ⚙️ Tech & tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sql,postgres,tableau,powerbi,airflow,git,github,html,css,js" alt="tech stack icons" />
-</p>
+### ⚙️ Tech & Tools
+![Python](https://skillicons.dev/icons?i=python)
+![SQL](https://skillicons.dev/icons?i=sql)
+![Postgres](https://skillicons.dev/icons?i=postgres)
+![Tableau](https://skillicons.dev/icons?i=tableau)
+![Power BI](https://skillicons.dev/icons?i=powerbi)
+![Airflow](https://skillicons.dev/icons?i=airflow)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
 
 ---
 
 ### 📊 Activity
-<!-- Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prasenjit9619&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prasenjit9619&layout=compact&theme=tokyonight&hide_border=true)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=prasenjit9619)](https://git.io/streak-stats)
 
-<!-- Streak -->
-<p>
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
 ### 🐍 Contributions
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prasenjit9619/prasenjit9619/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/prasenjit9619/prasenjit9619/output/github-contribution-grid-snake.svg" />
-</picture>
+![GitHub Snake Light](https://raw.githubusercontent.com/prasenjit9619/prasenjit9619/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/prasenjit9619/prasenjit9619/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ---
 
 ### 🔗 Connect
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://YOUR_PORTFOLIO_URL" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-111111?style=flat&logo=vercel&logoColor=white" />
-</a>
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-</a>
-
-<!-- Pinned work → where data meets design -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL_HERE)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
