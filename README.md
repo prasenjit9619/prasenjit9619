@@ -26,7 +26,7 @@ I build secure and sustainable infrastructure that people can **trust**.
 ### 📊 Activity
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prasenjit9619&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prasenjit9619&layout=compact&theme=tokyonight&hide_border=true)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=prasenjit9619&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=prasenjit9619&theme=tokyonight)](https://git.io/streak-stats)
 
 
 ---
