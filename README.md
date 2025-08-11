@@ -1,6 +1,6 @@
 ![Profile views](https://komarev.com/ghpvc/?username=prasenjit9619&label=Profile%20Views&color=0e75b6&style=flat)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/prasenjit9619)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat&logo=vercel&logoColor=white)](https://prasenjit9619.github.io/portfolio/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat&logo=vercel&logoColor=white)](https://prasenjit9619.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:prasenjit9619@gmail.com)
 
 # Hey, I'm Prasenjit 👋
