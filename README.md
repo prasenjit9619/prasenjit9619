@@ -31,8 +31,9 @@ Dhaka‑based Senior BI Analyst & Data Engineer — I build intelligence people 
 ---
 
 ### 🐍 Contributions
-![GitHub Snake Light](https://raw.githubusercontent.com/prasenjit9619/prasenjit9619/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/prasenjit9619/prasenjit9619/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://github.com/prasenjit9619/prasenjit9619/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Dark](https://github.com/prasenjit9619/prasenjit9619/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 ---
 
