@@ -9,16 +9,16 @@ I build secure and sustainable infrastructure that people can **trust**.
 
 ---
 
-### ⚙️ Tech & Tools
-![Python](https://skillicons.dev/icons?i=python)
-![Tableau](https://skillicons.dev/icons?i=tableau)
-![Power BI](https://skillicons.dev/icons?i=powerbi)
-![Airflow](https://skillicons.dev/icons?i=airflow)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=js)
+### ⚙️ Tech & Tools  
+<div style="display: flex; align-items: center; gap: 8px;">
+  <img src="assets/airflow.png" alt="SSIS" width="100" height="50" />
+  <img src="assets/odi.jpg" alt="ODI" width="100" height="50" />
+  <img src="assets/ssis.png" alt="SSIS" width="100" height="50" />
+</div>
+
+
+
+
 
 ---
 
