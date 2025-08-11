@@ -1,16 +1,16 @@
-![Profile views](https://komarev.com/ghpvc/?username=prasenjit9619&label=Profile%20Views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=prasenjit9619&label=Profile%20Views&color=0e75b6&style=flat)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/prasenjit9619)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat&logo=vercel&logoColor=white)]([https://YOUR_PORTFOLIO_URL_HERE](https://prasenjit9619.github.io/portfolio/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:prasenjit9619@gmail.com)
 
 # Hey, I'm Prasenjit 👋
 
-Data → Decisions | Ethical AI/BI Founder | Clean UX Advocate  
-Dhaka‑based Senior BI Analyst & Data Engineer — I build intelligence people can **trust**.
+I build secure and sustainable infrastructure that people can **trust**.
 
 ---
 
 ### ⚙️ Tech & Tools
 ![Python](https://skillicons.dev/icons?i=python)
-![SQL](https://skillicons.dev/icons?i=sql)
-![Postgres](https://skillicons.dev/icons?i=postgres)
 ![Tableau](https://skillicons.dev/icons?i=tableau)
 ![Power BI](https://skillicons.dev/icons?i=powerbi)
 ![Airflow](https://skillicons.dev/icons?i=airflow)
@@ -23,21 +23,14 @@ Dhaka‑based Senior BI Analyst & Data Engineer — I build intelligence people 
 ---
 
 ### 📊 Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prasenjit9619&show_icons=true&theme=tokyonight&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prasenjit9619&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prasenjit9619&layout=compact&theme=tokyonight&hide_border=true)  
 [![GitHub Streak](https://streak-stats.demolab.com?user=prasenjit9619)](https://git.io/streak-stats)
-
 
 ---
 
 ### 🐍 Contributions
 ![GitHub Snake Light](https://github.com/prasenjit9619/prasenjit9619/blob/output/github-contribution-grid-snake.svg)
-![GitHub Snake Dark](https://github.com/prasenjit9619/prasenjit9619/blob/output/github-contribution-grid-snake-dark.svg)
+<!--![GitHub Snake Dark](https://github.com/prasenjit9619/prasenjit9619/blob/output/github-contribution-grid-snake-dark.svg) -->
 
 
----
-
-### 🔗 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL_HERE)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
